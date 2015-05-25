@@ -68,6 +68,6 @@ theme: landscape
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
-  git: github
-  repository: git@github.com:wangyun122/wangyun122.github.com.git
+  type: git
+  repo: https://github.com/wangyun122/wangyun122.github.io.git
   branch: master
