@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: The World's End
 subtitle:
 description:
-author: John Doe
-language:
+author:  tony
+language: zh-Hans
 timezone:
 
 # URL
@@ -63,7 +63,8 @@ pagination_dir: page
 # Extensions
 ## Plugins: http://hexo.io/plugins/
 ## Themes: http://hexo.io/themes/
-theme: landscape
+theme: next
+avatar: https://avatars1.githubusercontent.com/u/5914436?v=3&s=460
 
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
